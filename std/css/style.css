@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: none;
+}
+.header h2{
+    padding: 20px 0;
+    border-bottom: 2px solid #e9ecef;
+}
+.addnew-btn{
+    margin: 0 0 15px 5px;
+    }
+.table td, .table th{
+    vertical-align: middle;
+}
+.col-md-auto{
+	padding-right: 0;
+	padding-left: 0;
+}
+.add-header h3{
+	border-bottom: 2px solid #e9ecef;
+}
+.show-header{
+	width: 60%;
+	margin: 0 auto;
+	margin-top: 40px;
+	margin-bottom: 10px;
+}
+.header-text{
+	border-bottom: 2px solid #e9ecef;
+}
+.student-info{
+	width: 60%;
+	margin: 0 auto;
+}
+.std-info{
+	width: 100%;
+	text-align: center;
+	padding: 10px 10px;
+	background-color: #212529;
+	color: white;
+	text-transform: uppercase;
+	font-weight: 700;
+	margin-bottom: 10px;
+}
+.std-name{
+	margin-bottom: 10px;	
+}
+.std-name p{
+	font-size: 20px;
+	font-weight: 400;
+}
+.border{
+	width: 100%;
+	border: 2px solid #e9ecef;
+}
+.edit-area{
+	width: 60%;
+	margin: 0 auto;
+}
